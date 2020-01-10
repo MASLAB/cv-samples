@@ -3,6 +3,8 @@ This repo contains example code used in the demos for the MASLAB 2020 CV lecture
 
 Slides [here](https://docs.google.com/presentation/d/1SSGMEjHwkinFj3I0PVrSh51hBfSTtkA3sM__b9zMBVc/edit?usp=sharing).
 
+Regular Github mirror for easy cloning onto NUC: https://github.com/nmoroze/cv-examples
+
 ## Setting up
 To run this code, you'll need a webcam built into or attached to your computer,
 and the OpenCV and AprilTags Python packages installed.
