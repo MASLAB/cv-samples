@@ -10,7 +10,7 @@ To run this code, you'll need a webcam built into or attached to your computer,
 and the OpenCV and AprilTags Python packages installed.
 
 ```
-pip install opencv-python apriltags
+pip install opencv-python apriltag
 ```
 
 Be sure to set the correct value for `CAMERA_INDEX` in each file before you run it
